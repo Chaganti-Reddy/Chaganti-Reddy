@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="./img/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chaganti Reddy</h1>
 <h3 align="center">I'm a passionate Physics Learner from India.</h3>
 
 ## 🙋‍♂️ About Me
@@ -73,7 +73,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Chaganti-Reddy">
     <img src="https://komarev.com/ghpvc/?username=Chaganti-Reddy">
 </a>
 <a href="https://github.com/Chaganti-Reddy?tab=followers"><img src="https://img.shields.io/github/followers/Chaganti-Reddy?style=social" alt="GitHub Badge"></a>
