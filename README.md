@@ -77,4 +77,3 @@
     <img src="https://komarev.com/ghpvc/?username=Chaganti-Reddy">
 </a>
 <a href="https://github.com/Chaganti-Reddy?tab=followers"><img src="https://img.shields.io/github/followers/Chaganti-Reddy?style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/Chaganti-Reddy?tab=stars"><img src="https://img.shields.io/github/stars/Chaganti-Reddy?style=socia" alt="GitHub Badge"></a>
