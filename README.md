@@ -61,14 +61,9 @@
 <br/>
 <br/>
 
-### closed_book Latest Blog Posts
-Getting Started with MongoDB & Mongoose
-How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer
-Microinteractions: Password Validation Animation
-Notion + YouTube - A Powerful Combination for Productivity
-Regular Expressions (RegEx) Crash Course
-arrow_right more blog posts...
-
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </br>
 
 ## Connect with me:
