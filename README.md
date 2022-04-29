@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="./img/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chaganti Reddy</h1>
-<h3 align="center">I'm a passionate Physics Learner from India.</h3>
+<h3 align="center">I'm a passionate Machine Learning Engineer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Twitter3.0](https://twitter3-chaganti-reddy.vercel.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Machine Learning Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chagantivenkataramireddy1@gmail.com**
 
-- ⚡ Fun fact **I Love to play Cricket  and Learning Physics.**
+- ⚡ Fun fact **I Love to Learning Physics  and play games .**
 
 ## 🚀 Languages and Tools:
 
