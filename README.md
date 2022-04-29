@@ -62,7 +62,7 @@
 <br/>
 
 ### 📚 Latest Blog Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/face-mask-detector-c75aee8cd932"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/face-mask-detector-c75aee8cd932" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0" alt="Recent Article 0"> 
 
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2">  -->
 </br>
