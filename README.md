@@ -66,6 +66,8 @@
 
 [![Chaganti Reddy Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=chagantivenkataramireddy1)](https://medium.com/@chagantivenkataramireddy1)
 
+https://github-readme-medium-recent-article.vercel.app/medium/chagantivenkataramireddy1/1
+
 <!-- [![Chaganti Reddy Medium](https://github-readme-medium.vercel.app/?username=chagantivenkataramireddy1&limit=5)](https://medium.com/@chagantivenkataramireddy1) -->
 
 
