@@ -62,6 +62,10 @@
 <br/>
 
 ### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0" alt="Recent Article 0"> 
     
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1"> 
