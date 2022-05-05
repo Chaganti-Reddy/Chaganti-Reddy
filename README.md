@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Twitter3.0](https://twitter3-chaganti-reddy.vercel.app/)**
+- 🔭 I’m currently working as Machine Learning Engineer Intern at **Feynn Labs**
 
 - 🌱 I’m currently learning **Machine Learning Algorithms.**
 
