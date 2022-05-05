@@ -64,7 +64,8 @@
 ### 📚 Latest Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1">
+[![Chaganti Reddy Medium](https://github-readme-medium.vercel.app/?username=chagantivenkataramireddy1&limit=2&bg=red&text=green)](https://medium.com/@chagantivenkataramireddy1)
+
 </br>
 
 ## Connect with me:
