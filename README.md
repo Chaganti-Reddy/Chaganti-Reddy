@@ -64,6 +64,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Machine Learning? | Machine Learning](https://medium.com/@chagantivenkataramireddy1/what-is-machine-learning-machine-learning-f5c6e9381b4f?source=rss-51fe298dfcc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1">  -->
