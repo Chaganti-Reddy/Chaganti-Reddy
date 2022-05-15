@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chagantivenkataramireddy1@gmail.com**
 
-- ⚡ Fun fact **I Love to Learning Physics  and play games .**
+- ⚡ Fun fact **I Love to Learn Physics  and play games .**
 
 ## 🚀 Languages and Tools:
 
