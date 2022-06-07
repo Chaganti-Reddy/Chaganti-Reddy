@@ -59,9 +59,9 @@
 <a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chaganti-reddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<!-- <br/> -->
 
-### 📚 Latest Blog Posts
+<!-- ### 📚 Latest Blog Posts -->
 
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1">  -->
 
