@@ -24,6 +24,7 @@
     <a href="https://devdocs.io/cpp/" target="_blank"> <img src="./img/C++.png"  width="48" height="48"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="./img/py.png" width="48" height="48"/> </a> 
     <a href="https://www.r-project.org/other-docs.html" target="_blank"> <img src="./img/R.png"  width="48" height="46"/> </a>
+    <a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./img/pytorch.png"  width="48" height="46"/> </a>
     <a href="https://opencv.org/" target="_blank"> <img src="./img/opencv.png" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.png"width="48" height="48"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="./img/html.png" width="48" height="48"/> </a> 
