@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Machine Learning Engineer Intern at **Feynn Labs**
+- 🔭 I’m currently persuing my graduation at **Indian Institute of Information Technology, Sonepat**
 
 - 🌱 I’m currently learning **Machine Learning Algorithms.**
 
