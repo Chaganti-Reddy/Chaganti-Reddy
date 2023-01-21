@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-[![Chaganti Reddy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaganti-Reddy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chaganti Reddy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaganti-Reddy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <!-- <br/> -->
