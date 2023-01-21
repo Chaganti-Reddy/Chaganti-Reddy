@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chaganti-reddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Chaganti Reddy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaganti-Reddy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <!-- <br/> -->
