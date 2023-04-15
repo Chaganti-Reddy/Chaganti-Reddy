@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently persuing my graduation at **Indian Institute of Information Technology, Sonepat**
 
-- 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.**
+<!-- - 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.** -->
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
