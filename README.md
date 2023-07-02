@@ -69,7 +69,12 @@
 
 ### 📚 Latest Blog Posts
 
-![Chaganti Reddy's blog](https://github-read-medium.vercel.app/latest?username=chagantivenkataramireddy1&limit=6&theme=react)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1"> 
+
+
+<!-- ![Chaganti Reddy's blog](https://github-read-medium.vercel.app/latest?username=chagantivenkataramireddy1&limit=6&theme=react) -->
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1">  -->
 
 
