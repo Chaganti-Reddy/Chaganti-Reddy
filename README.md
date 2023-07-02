@@ -45,6 +45,10 @@
     </a>
 </p>
 
+ <br/>
+  
+[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
+
 ## 📊 My Github Stats
 
   <br/>
@@ -54,10 +58,6 @@
   <br/>
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <br/>
-  
-[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
 <br/>
 <br/>
