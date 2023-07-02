@@ -52,7 +52,7 @@
   <a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaganti-Reddy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=pahlevikun&theme=nord&column=7&margin-w=10&margin-h=15)
 
 <br/>
 <br/>
