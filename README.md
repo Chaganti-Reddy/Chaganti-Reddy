@@ -50,11 +50,14 @@
   <br/>
     <a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaganti-Reddy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaganti-Reddy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
   <br/>
   
-[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=pahlevikun&theme=nord&column=7&margin-w=15&margin-h=15)]
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <br/>
+  
+[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=pahlevikun&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
 <br/>
 <br/>
