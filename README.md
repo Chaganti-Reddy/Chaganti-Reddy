@@ -57,7 +57,7 @@
   
   <br/>
   
-[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=nord&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
+[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
 <br/>
 <br/>
