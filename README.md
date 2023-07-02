@@ -90,7 +90,7 @@
 
 <a href = "https://www.linkedin.com/in/chaganti-reddy/"><img src="./img/linkedin.png" width="50" height="50"/></a>
 <a href = "https://twitter.com/Reddy24972662"><img src="./img/twitter.png" width="50" height="50"/></a>
-<a href = "chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
+<a href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
 <!-- <a href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a> -->
 <!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a> -->
 <!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/messanger.png" width="50" height="50"/></a> -->
