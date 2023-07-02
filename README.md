@@ -65,10 +65,11 @@
 [![Chaganti Reddy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaganti-Reddy&theme=github-compact)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
 <br/>
-<!-- <br/> -->
+<br/>
 
-<!-- ### 📚 Latest Blog Posts -->
+### 📚 Latest Blog Posts
 
+ [![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=pahlevikun)](https://medium.com/@chagantivenkataramireddy1)
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1">  -->
 
 
