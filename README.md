@@ -69,7 +69,7 @@
 
 ### 📚 Latest Blog Posts
 
-[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=chagantivenkataramireddy1&theme=react&limit=4)
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`chagantivenkataramireddy1`"/>
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chagantivenkataramireddy1/1" alt="Recent Article 1">  -->
 
 
