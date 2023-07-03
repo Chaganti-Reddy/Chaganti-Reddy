@@ -69,7 +69,7 @@
 
 ### 📚 Latest Blog Posts
 
-![Chaganti Reddy's blog](https://github-read-medium.vercel.app/latest?username=ramchaganti&limit=6&theme=react)
+![Chaganti Reddy's blog](https://github-read-medium.vercel.app/latest?username=ramchaganti&limit=10&theme=react)
 
 </br>
 
