@@ -5,17 +5,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat** & Aspiring data scientist and machine learning enthusiast with a strong interest in physics.
+- 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat**
+
+- 🔭 Aspiring **data scientist and machine learning** enthusiast with a strong interest in **physics**
 
 <!-- - 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.** -->
 
-- 👯 Actively seeking opportunities to engage with the **open-source community**, learn from experienced contributors, and share my own expertise.
+- 👯 Actively seeking opportunities to engage with the **open-source community**, learn from experienced contributors, and share my own expertise
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://chaganti-reddy-1.netlify.app/)**
 
-- 📫 Driven by a desire to use my **skills and knowledge** to contribute meaningfully to the intersection of technology and scientific exploration.
+- 📫 Driven by a desire to use my **skills and knowledge** to contribute meaningfully to the intersection of technology and scientific exploration
 
-- ⚡ Fun fact **I Love to Learn Physics.**
+- ⚡ Fun fact **I Love to Learn Physics**
 
 ## 🚀 Languages and Tools:
   
