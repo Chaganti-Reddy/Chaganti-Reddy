@@ -22,21 +22,21 @@
 ## 🚀 Languages and Tools:
   
 <p align="left"> 
-    <a href="https://devdocs.io/c/" target="_blank"> <img src="./img/C.png"  width="48" height="48"/> </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> <img src="./img/C++.png"  width="48" height="48"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="./img/py.png" width="48" height="48"/> </a> 
+    <a target="_blank"  href="https://devdocs.io/c/" target="_blank"> <img src="./img/C.png"  width="48" height="48"/> </a>
+    <a target="_blank"  href="https://devdocs.io/cpp/" target="_blank"> <img src="./img/C++.png"  width="48" height="48"/> </a>
+    <a target="_blank"  href="https://www.python.org" target="_blank"> <img src="./img/py.png" width="48" height="48"/> </a> 
     <!-- <a href="https://www.r-project.org/other-docs.html" target="_blank"> <img src="./img/R.png"  width="48" height="46"/> </a> -->
-    <a href="https://www.tensorflow.org/overview" target="_blank"> <img src="./img/tensor.svg"  width="48" height="46"/> </a>
-    <a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./img/pytorch.png"  width="48" height="46"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="./img/opencv.png" width="48" height="48"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.png"width="48" height="48"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="./img/html.png" width="48" height="48"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./img/css.png" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="./img/php.png" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./img/mysql.png" width="48" height="48"/> </a>
-    <!-- <a href="https://reactjs.org/" target="_blank"> <img src="./img/react.png" width="48" height="48"/> </a> -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" width="48" height="48"/> </a> 
-    <a href="https://github.com/Chaganti-Reddy/" target="_blank"> <img src="./img/github.gif" alt="express" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://www.tensorflow.org/overview" target="_blank"> <img src="./img/tensor.svg"  width="48" height="46"/> </a>
+    <a target="_blank"  href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./img/pytorch.png"  width="48" height="46"/> </a>
+    <a target="_blank"  href="https://opencv.org/" target="_blank"> <img src="./img/opencv.png" width="48" height="48"/> </a>
+    <a  target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.png"width="48" height="48"/> </a> 
+    <a target="_blank"  href="https://www.w3.org/html/" target="_blank"> <img src="./img/html.png" width="48" height="48"/> </a> 
+    <a target="_blank"  href="https://www.w3schools.com/css/" target="_blank"> <img src="./img/css.png" width="48" height="48"/> </a> 
+    <a target="_blank"  style="padding-right:8px;" href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="./img/php.png" width="48" height="48"/> </a> 
+    <a target="_blank"  style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./img/mysql.png" width="48" height="48"/> </a>
+    <!-- <a target="_blank" href="https://reactjs.org/" target="_blank"> <img src="./img/react.png" width="48" height="48"/> </a> -->
+    <a target="_blank"  href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" width="48" height="48"/> </a> 
+    <a target="_blank"  href="https://github.com/Chaganti-Reddy/" target="_blank"> <img src="./img/github.gif" alt="express" width="48" height="48"/> </a>
 </p>
 <br/>
 <p>
@@ -84,12 +84,12 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/chaganti-reddy/"><img src="./img/linkedin.png" width="50" height="50"/></a>
-<a href = "https://twitter.com/Reddy24972662"><img src="./img/twitter.png" width="50" height="50"/></a>
-<a href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
-<a href = "https://medium.com/@ramchaganti"><img src="./img/medium.png" width="50" height="50"/></a>
-<a href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a>
-<a href = "https://t.me/Chaganti_Reddy"><img src="./img/telegram.png" width="50" height="50"/></a>
+<a target="_blank"  href = "https://www.linkedin.com/in/chaganti-reddy/"><img src="./img/linkedin.png" width="50" height="50"/></a>
+<a target="_blank" href = "https://twitter.com/Reddy24972662"><img src="./img/twitter.png" width="50" height="50"/></a>
+<a target="_blank" href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
+<a target="_blank" href = "https://medium.com/@ramchaganti"><img src="./img/medium.png" width="50" height="50"/></a>
+<a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a>
+<a target="_blank" href = "https://t.me/Chaganti_Reddy"><img src="./img/telegram.png" width="50" height="50"/></a>
 <!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a> -->
 <!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/messanger.png" width="50" height="50"/></a> -->
 
