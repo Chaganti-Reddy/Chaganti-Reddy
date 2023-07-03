@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently persuing my graduation at **Indian Institute of Information Technology, Sonepat**
+- 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat** & Aspiring data scientist and machine learning enthusiast with a strong interest in physics.
 
 <!-- - 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.** -->
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chagantivenkataramireddy1@gmail.com**
 
-- ⚡ Fun fact **I Love to Learn Physics  and play games .**
+- ⚡ Fun fact **I Love to Learn Physics.**
 
 ## 🚀 Languages and Tools:
   
