@@ -9,11 +9,11 @@
 
 <!-- - 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.** -->
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Actively seeking opportunities to engage with the **open-source community**, learn from experienced contributors, and share my own expertise.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://chaganti-reddy-1.netlify.app/)**
 
-- 📫 How to reach me **chagantivenkataramireddy1@gmail.com**
+- 📫 Driven by a desire to use my **skills and knowledge** to contribute meaningfully to the intersection of technology and scientific exploration.
 
 - ⚡ Fun fact **I Love to Learn Physics.**
 
