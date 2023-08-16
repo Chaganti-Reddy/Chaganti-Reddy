@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="./img/1.gif" width="30px" height="40px">, I'm Venkatarami Reddy</h1> 
 <h3 align="center">Passionate Machine Learning Engineer & Science enthusiastic from India.</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
 
 - 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat**
 
