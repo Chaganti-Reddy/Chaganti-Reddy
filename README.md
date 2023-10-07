@@ -85,7 +85,7 @@
 <p align="left">
 
 <a target="_blank"  href = "https://www.linkedin.com/in/chaganti-reddy/"><img src="./img/linkedin.png" width="50" height="50"/></a>
-<a target="_blank" href = "https://twitter.com/Reddy24972662"><img src="./img/twitter.png" width="50" height="50"/></a>
+<a target="_blank" href = "https://twitter.com/Ram7775130764"><img src="./img/twitter.png" width="50" height="50"/></a>
 <a target="_blank" href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://medium.com/@ramchaganti"><img src="./img/medium.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a>
