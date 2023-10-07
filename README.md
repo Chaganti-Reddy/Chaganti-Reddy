@@ -85,13 +85,13 @@
 <p align="left">
 
 <a target="_blank"  href = "https://www.linkedin.com/in/chaganti-reddy/"><img src="./img/linkedin.png" width="50" height="50"/></a>
-<!-- <a target="_blank" href = "https://twitter.com/Ram7775130764"><img src="./img/twitter.png" width="50" height="50"/></a> -->
 <a target="_blank" href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://medium.com/@ramchaganti"><img src="./img/medium.png" width="50" height="50"/></a>
-<!-- <a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a> -->
-<a target="_blank" href = "https://t.me/Chaganti_Reddy"><img src="./img/telegram.png" width="50" height="50"/></a> 
-<!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a> -->
-<!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/messanger.png" width="50" height="50"/></a> -->
+<a target="_blank" href = "https://t.me/Chaganti_Reddy"><img src="./img/telegram.png" width="50" height="50"/></a>
+<!-- <a target="_blank" href = "https://twitter.com/Ram7775130764"><img src="./img/twitter.png" width="50" height="50"/></a> -->
+<!-- <a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a> --> 
+<!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a> 
+<a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/messanger.png" width="50" height="50"/></a> -->
 
 </p>
 
