@@ -69,7 +69,7 @@
 <br/>
 
 <p align="center"><a href="https://wakatime.com/@Ram777">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/3dc64226-ce06-426c-bba9-3ad3533df2f5.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/5f349f2b-56c1-48f2-abf8-0bff508dd82b.svg" />
 </a>
 <a href="https://wakatime.com/@Ram777">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/e80d7cd1-f0e8-47ae-a9b4-887d75eb31d7.svg" />
