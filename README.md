@@ -52,12 +52,12 @@
 
 ## 📊 My Github Stats
 
-  <!-- <br/>
+   <br/>
    <p align="center">
     <a href="https://github.com/Chaganti-Reddy">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chaganti Reddy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaganti-Reddy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>  -->
+</p>  
 
 [![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
