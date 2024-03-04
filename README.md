@@ -69,17 +69,17 @@
 <br/>
 
 <p align="center"><a href="https://wakatime.com/@Ram777">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/5f349f2b-56c1-48f2-abf8-0bff508dd82b.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/34964525-5dda-4c4c-8e5c-42e559c92160.svg" />
 </a>
 <a href="https://wakatime.com/@Ram777">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/3af7db16-0f0b-48e6-98fd-fbb17b2741d9.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/a171a0c2-b43c-4310-a69f-61e0ac36bce0.svg" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@Ram777">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/caec862e-6b08-450b-bc26-9434e43d5a39.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/16477b91-77dc-408f-acc0-b8c079c5576c.svg" />
 </a>
 <a href="https://wakatime.com/@Ram777">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/7a58ca13-4902-4a05-95c8-5613b9db59e5.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/4f267354-d7a2-412c-a2f0-dd610768f423.svg" />
 </a></p>
 
 <br/>
