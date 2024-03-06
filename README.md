@@ -96,6 +96,10 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😉 Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ---
 
 <!-- --- -->
