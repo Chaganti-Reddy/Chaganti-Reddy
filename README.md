@@ -102,7 +102,7 @@
 
 | Quote | Joke | 
 | :---------------- | :------: | 
-| <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 100%;"> | <img src="https://readme-jokes.vercel.app/api" style="width: 100%;"> |
+| <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 200px;"> | <img src="https://readme-jokes.vercel.app/api" style="width: 200px;"> |
 
 
 ---
