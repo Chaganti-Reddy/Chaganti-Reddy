@@ -93,16 +93,11 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/3" alt="Recent Article 3">
 
-### ✍️Random Dev
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😉 Programming Joke :
-![Jokes Card](https://readme-jokes.vercel.app/api) -->
-
-| Quote | Joke | 
-| :---------------- | :------: | 
-| <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 400px;"> | <img src="https://readme-jokes.vercel.app/api" style="width: 200px;"> |
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
