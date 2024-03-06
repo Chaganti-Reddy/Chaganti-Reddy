@@ -100,16 +100,9 @@
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-    </td>
-    <td>
-      <img src="[https://readme-jokes.vercel.app/api](https://readme-jokes.vercel.app/api)" alt="Programming Joke">
-    </td>
-  </tr>
-</table>
+| Quote              | Joke | 
+| :---------------- | :------: | 
+| https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical        |   https://readme-jokes.vercel.app/api   | 
 
 ---
 
