@@ -92,6 +92,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/4" alt="Recent Article 4">
 
 ### ✍️ Funky Tech Thoughts
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
