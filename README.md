@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="./img/1.gif" width="30px" height="40px">, I'm Venkatarami Reddy</h1> 
 <h3 align="center">Passionate Machine Learning Engineer & Science Enthusiast.</h3>
 
-## 🙋‍♂️ About Me 
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat**
 
@@ -20,23 +20,29 @@
 <!-- - ⚡ Fun fact **I Love to Learn Physics** -->
 
 ## 🚀 Languages and Tools:
-  
+
 <p align="left"> 
     <a target="_blank"  href="https://devdocs.io/c/" target="_blank"> <img src="./img/C.png"  width="48" height="48"/> </a>
     <a target="_blank"  href="https://devdocs.io/cpp/" target="_blank"> <img src="./img/C++.png"  width="48" height="48"/> </a>
     <a target="_blank"  href="https://www.python.org" target="_blank"> <img src="./img/py.png" width="48" height="48"/> </a> 
-    <!-- <a href="https://www.r-project.org/other-docs.html" target="_blank"> <img src="./img/R.png"  width="48" height="46"/> </a> -->
     <a target="_blank"  href="https://www.tensorflow.org/overview" target="_blank"> <img src="./img/tensor.svg"  width="48" height="46"/> </a>
     <a target="_blank"  href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./img/pytorch.png"  width="48" height="46"/> </a>
     <a target="_blank"  href="https://opencv.org/" target="_blank"> <img src="./img/opencv.png" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://scikit-learn.org/stable/" target="_blank"> <img src="./img/sk.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://fastapi.tiangolo.com/" target="_blank"> <img src="./img/fast.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://www.docker.com/" target="_blank"> <img src="./img/docker.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://podman.io/" target="_blank"> <img src="./img/pod.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://www.linux.org/" target="_blank"> <img src="./img/li.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" width="48" height="48"/> </a> 
+    <a target="_blank"  href="https://github.com/Chaganti-Reddy/" target="_blank"> <img src="./img/github.gif" alt="express" width="48" height="48"/> </a>
+    <a target="_blank"  style="padding-right:8px;" href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="./img/php.png" width="48" height="48"/> </a> 
+    <a target="_blank"  style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./img/mysql.png" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://www.gnu.org/software/bash/" target="_blank"> <img src="./img/ter.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://en.wikipedia.org/wiki/Particle_swarm_optimization" target="_blank"> <img src="./img/opt.svg" width="48" height="48"/> </a>
+    <a target="_blank"  href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="./img/mat.svg" width="48" height="48"/> </a>
     <a  target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.png"width="48" height="48"/> </a> 
     <a target="_blank"  href="https://www.w3.org/html/" target="_blank"> <img src="./img/html.png" width="48" height="48"/> </a> 
     <a target="_blank"  href="https://www.w3schools.com/css/" target="_blank"> <img src="./img/css.png" width="48" height="48"/> </a> 
-    <a target="_blank"  style="padding-right:8px;" href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="./img/php.png" width="48" height="48"/> </a> 
-    <a target="_blank"  style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./img/mysql.png" width="48" height="48"/> </a>
-    <!-- <a target="_blank" href="https://reactjs.org/" target="_blank"> <img src="./img/react.png" width="48" height="48"/> </a> -->
-    <a target="_blank"  href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" width="48" height="48"/> </a> 
-    <a target="_blank"  href="https://github.com/Chaganti-Reddy/" target="_blank"> <img src="./img/github.gif" alt="express" width="48" height="48"/> </a>
 </p>
 <br/>
 <p>
@@ -49,7 +55,6 @@
 
 ---
 
-
 ## 📊 My Github Stats
 
    <br/>
@@ -57,7 +62,7 @@
     <a href="https://github.com/Chaganti-Reddy">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chaganti Reddy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaganti-Reddy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>  
+</p>
 
 [![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
@@ -96,29 +101,35 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramchaganti/5" alt="Recent Article 5">
 
 ### ✍️ Funky Tech Thoughts
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😉 Coding Chuckles
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
 <!-- --- -->
+
 ## Connect with me:
+
 <p align="left">
 
 <a target="_blank"  href = "https://www.linkedin.com/in/chaganti-reddy/"><img src="./img/linkedin.png" width="50" height="50"/></a>
 <a target="_blank" href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://medium.com/@ramchaganti"><img src="./img/medium.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://t.me/Chaganti_Reddy"><img src="./img/telegram.png" width="50" height="50"/></a>
+
 <!-- <a target="_blank" href = "https://twitter.com/Ram7775130764"><img src="./img/twitter.png" width="50" height="50"/></a> -->
-<!-- <a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a> --> 
-<!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a> 
+<!-- <a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a> -->
+<!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/messanger.png" width="50" height="50"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Chaganti-Reddy">
     <img src="https://komarev.com/ghpvc/?username=Chaganti-Reddy">
 </a>
