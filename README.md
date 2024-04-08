@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="./img/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="./img/1.gif" width="30px" height="40px">, I'm Venkatarami Reddy</h1> 
-<h3 align="center">Passionate Machine Learning Engineer & Science Enthusiast.</h3>
+<h3 align="center">Passionate Machine Learning Engineer & Science Enthusiast.</h3> 
 
 ## 🙋‍♂️ About Me
 
