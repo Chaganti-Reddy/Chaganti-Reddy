@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat**
-
+ 
 - 🔭 Aspiring **data scientist and machine learning** enthusiast with a strong interest in **physics**. 
 
 <!-- - 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.** -->
