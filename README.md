@@ -13,7 +13,7 @@
 
 - 👯 Actively seeking opportunities to engage with the **open-source community**, learn from experienced contributors, and share my own expertise
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://chaganti-reddy-1.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://arcaneseal.netlify.app/)**
 
 - 📫 Driven by a desire to use my **skills and knowledge** to contribute meaningfully to the intersection of technology and scientific exploration
 
