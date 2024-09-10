@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat**
+- 🔭 **Graduated with Highest Honors** from **Indian Institute of Information Technology, Sonepat**
  
-- 🔭 Aspiring **data scientist and machine learning** enthusiast with a strong interest in **physics**. 
+- 🔭 Aspiring **data scientist and machine learning** enthusiast with a strong interest in **physics**
 
-<!-- - 🌱 I’m currently working as a **Machine Learning Research Intern at IIT Bombay.** -->
+- 🌱 I’m currently working as a **Research Assistant at Mahindra University, Hyderabad.**
 
 - 👯 Actively seeking opportunities to engage with the **open-source community**, learn from experienced contributors, and share my own expertise
 
@@ -17,7 +17,7 @@
 
 - 📫 Driven by a desire to use my **skills and knowledge** to contribute meaningfully to the intersection of technology and scientific exploration
 
-<!-- - ⚡ Fun fact **I Love to Learn Physics** -->   
+- ⚡ Fun fact **I Love to Learn Quantum Computing** -->   
 
 ## 🚀 Languages and Tools:
 
