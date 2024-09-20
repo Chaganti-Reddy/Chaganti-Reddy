@@ -17,7 +17,7 @@
 
 - 📫 Driven by a desire to use my **skills and knowledge** to contribute meaningfully to the intersection of technology and scientific exploration
 
-- ⚡ Fun fact **I Love to Learn Quantum Computing** -->   
+- ⚡ Fun fact **I Love to Learn Quantum Computing** 
 
 ## 🚀 Languages and Tools:
 
