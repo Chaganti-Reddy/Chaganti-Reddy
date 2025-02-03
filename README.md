@@ -60,7 +60,7 @@
    <br/>
    <p align="center">
     <a href="https://github.com/Chaganti-Reddy">
-        <img title="🔥 Chaganti Reddy's Github Streak Strats" alt="Chaganti Reddy's streak" src="https://streak-stats.demolab.com?user=Chaganti-Reddy&theme=jolly&hide_border=true&exclude_days=Sun"/>
+        <img title="🔥 Chaganti Reddy's Github Streak Strats" alt="Chaganti Reddy's streak" src="https://streak-stats.demolab.com?user=Chaganti-Reddy&theme=jolly&hide_border=true"/>
     </a>
 </p>
 
