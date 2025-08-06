@@ -55,11 +55,11 @@
 
 ## 📊 My Github Stats
    <br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chaganti-Reddy&theme=jolly&hide_border=true)](https://git.io/streak-stats)
 
 [![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
 
-<br/>
 <br/>
 
 [![Chaganti Reddy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaganti-Reddy&theme=github-compact)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
