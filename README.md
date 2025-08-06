@@ -57,6 +57,12 @@
 
 ## 📊 My Github Stats
 
+<div align = "justify">
+  <a href = "#">
+    <img src="https://komarev.com/ghpvc/?username=Chaganti-Reddy&color=4c566a&style=for-the-badge">
+  </a>
+</div>
+
    <br/>
    <p align="center">
     <a href="https://github.com/Chaganti-Reddy">
