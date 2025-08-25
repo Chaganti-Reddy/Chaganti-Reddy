@@ -9,7 +9,7 @@
  
 - 🔭 Aspiring **data scientist and machine learning** enthusiast with a strong interest in **physics**
 
-- 🌱 I’m currently working as a **Software Developer Intern at PRECA Solutions, Hyderabad.**
+- 🌱 I’m currently working as a **SDE Intern at Heagon R&D, Hyderabad.**
 
 - 👯 Actively seeking opportunities to engage with the **open-source community**, learn from experienced contributors, and share my own expertise
 
