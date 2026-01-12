@@ -1,11 +1,8 @@
 name: Metrics
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0/24 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   # push: {branches: ["master", "main"]}
 
 jobs:
@@ -17,29 +14,38 @@ jobs:
       - name: left profile 
         uses: stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }} 
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics-left.svg
-
-          # Options
           user: Chaganti-Reddy
           template: classic
-          base: header, activity, community
           config_timezone: Asia/Shanghai
+          
+          base: header, activity, community, repositories
+          repositories_affiliations: owner, collaborator, organization_member
+          
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_ignored: html, css
-          plugin_languages_details: percentage #, lines
+          plugin_languages_details: percentage
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
-          # plugin_anilist: yes
-          # plugin_anilist_user: Stalo
-          # plugin_anilist_sections: characters
-          # plugin_anilist_limit_characters: 22
+          plugin_languages_analysis_timeout: 90
+          
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, languages #, anilist
+          config_order: base.header, base.activity+community, base.repositories, languages, habits, lines
 
       - name: right profile 
         uses: stalomeow/metrics@projects-v2
@@ -47,17 +53,23 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics-right.svg
-
-          # Options
           user: Chaganti-Reddy
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
           plugin_achievements: yes
           plugin_achievements_threshold: X
           plugin_achievements_limit: 8
           plugin_achievements_display: detailed
-          # plugin_stars: yes
-          # plugin_stars_limit: 2
+          
           config_padding: 0, 8 + 11%
-          config_order: achievements #, stars
+          config_order: wakatime, isocalendar, achievements
