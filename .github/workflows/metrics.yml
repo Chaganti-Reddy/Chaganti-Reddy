@@ -14,23 +14,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # --- 1. CORE CONFIGURATION ---
           user: Chaganti-Reddy
           template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # [CRITICAL] This allows reading Private & Org repos
+          repositories_forks: no
+          commits_authoring: .user.login
+          
           repositories_affiliations: owner, collaborator, organization_member
           
-          # --- 2. ISSUES & PRs (The FIX for "0" counts) ---
           plugin_followup: yes
-          # CHANGED: 'user' counts YOUR actions across all GitHub (even Org repos)
-          # 'repositories' only counts actions in repos you OWN.
-          plugin_followup_sections: user 
+          plugin_followup_sections: user
           plugin_followup_indepth: yes
           
-          # --- 3. LANGUAGES ---
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs
           plugin_languages_limit: 8
@@ -38,49 +35,35 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_indepth: no
           
-          # --- 4. WAKATIME ---
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 30
           plugin_wakatime_user: current
 
-          # --- 5. LEETCODE ---
           plugin_leetcode: yes
           plugin_leetcode_user: chagantivenkataramireddy1
           plugin_leetcode_sections: solved, skills
           plugin_leetcode_limit_skills: 6
 
-          # --- 6. HABITS (The FIX for "Unexpected Error") ---
           plugin_habits: yes
-          # Reduced to 100 to prevent memory crash (You have too much data for 200!)
-          plugin_habits_from: 100       
+          plugin_habits_from: 60   
           plugin_habits_days: 30
           plugin_habits_facts: no      
           plugin_habits_charts: yes    
 
-          # --- 7. NOTABLE CONTRIBUTIONS ---
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-
-          # --- 8. TECH STACK ICONS ---
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: icons
           plugin_topics_sort: stars
 
-          # --- 9. BLOG ---
           plugin_rss: yes
           plugin_rss_source: https://karnablog.netlify.app/index.xml
-          plugin_rss_limit: 3
+          plugin_rss_limit: 5
 
-          # --- 10. ACHIEVEMENTS (The FIX for "Unexpected Error") ---
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
-          # CHANGED: secrets MUST be 'no'. Scanning 12k commits for secrets kills the process.
           plugin_achievements_secrets: no
-          # Ignored heavy achievements to save memory
           plugin_achievements_ignored: scifi, gitter, registered, follower, explorer 
           plugin_achievements_limit: 0
