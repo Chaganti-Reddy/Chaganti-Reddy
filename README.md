@@ -8,8 +8,6 @@
   </a>
 </p>
 
----
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Josephus Problem in Algorithm Design](https://karnablog.netlify.app/josephus/)
