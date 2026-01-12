@@ -56,6 +56,11 @@ jobs:
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, base.repositories, languages, lines, isocalendar, leetcode
 
+          # This CSS adds space between sections on the Left Profile
+          extras_css: |
+            section { margin-bottom: 40px; }
+            .row { margin-bottom: 40px; }
+
       # ----------------------------------------------------------------
       # RIGHT PROFILE (WakaTime, LeetCode, Achievements, AniList, RSS)
       # ----------------------------------------------------------------
@@ -97,3 +102,8 @@ jobs:
           
           config_padding: 0, 8 + 11%
           config_order: achievements, people, wakatime #, anilist
+
+          # This CSS adds space between sections on the Right Profile
+          extras_css: |
+            section { margin-bottom: 40px; }
+            .row { margin-bottom: 40px; }
