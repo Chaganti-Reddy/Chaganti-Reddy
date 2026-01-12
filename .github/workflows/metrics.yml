@@ -12,102 +12,64 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your Personal Access Token (Must have 'repo' scope for private stats)
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN used to commit the SVG (Standard practice)
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # --- DEBUGGING FLAGS (Crucial) ---
+          debug_flags: --error
+          debug_print: yes
 
-          # --- CORE CONFIG ---
+          # --- CORE ---
           user: Chaganti-Reddy
-          template: classic            # FIXED: Was 'repository', causing empty stats
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_twemoji: yes
-          config_octicon: yes
           
-          # --- PRIVATE STATS SETTINGS ---
+          # --- REPO SETTINGS ---
           repositories_affiliations: owner, collaborator
-          # This ensures code in forks is not counted (unless you want it to)
           repositories_forks: no
-          
-          # --- PLUGINS ---
 
-          # Follow-up (Issues/PRs)
-          plugin_followup: yes
-          plugin_followup_sections: user 
-          plugin_followup_indepth: yes
+          # --- PLUGINS (Test Group 1: Core Stats) ---
           
-          # Languages (Now scans all repos because template is classic)
+          # 1. LANGUAGES (Removed ignore list to see if ANYTHING shows up)
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
-          plugin_languages_analysis_timeout: 60            # Increased for private repos
-          plugin_languages_analysis_timeout_repositories: 15
+          # plugin_languages_ignored: html, css, shell # Commented out for testing
 
-          # Calendar (Commit history)
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
-
-          # Discussions
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-
-          # Gists
-          plugin_gists: yes
-
-          # Lines of Code (Heavy operation, can timeout on private repos)
+          # 2. LINES OF CODE (This usually fails if the script crashes earlier)
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
 
-          # Notable Contributions
+          # 3. WAKATIME
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_user: current
+          plugin_wakatime_repositories_visibility: all
+
+          # --- PLUGINS (Test Group 2: Disabled to prevent crashes) ---
+          
+          # DISABLED TEMPORARILY - These are the most likely cause of "Unexpected Error"
+          plugin_habits: no
+          plugin_achievements: no
+          
+          # Other plugins
+          plugin_calendar: yes
+          plugin_calendar_limit: 2
+          plugin_discussions: yes
+          plugin_gists: yes
           plugin_notable: yes
           plugin_notable_from: user
           plugin_notable_types: commit
-          
-          # WakaTime (Coding time)
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_user: current
-          plugin_wakatime_repositories_visibility: all # Ensures private wakatime stats show
-
-          # LeetCode (WARNING: Often fails due to Cloudflare blocks)
           plugin_leetcode: yes
           plugin_leetcode_user: chagantivenkataramireddy1
           plugin_leetcode_sections: solved
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_limit_recent: 2
-
-          # Habits (Coding times/days)
-          plugin_habits: yes
-          plugin_habits_from: 200       
-          plugin_habits_days: 14
-          plugin_habits_facts: yes      
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes # Trims unused hours from the graph
-
-          # Starred Topics
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-
-          # RSS Feed
           plugin_rss: yes
           plugin_rss_source: https://karnablog.netlify.app/index.xml
-          plugin_rss_limit: 5
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes    # RE-ENABLED: Scans private repos
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 0        # Show all earned achievements
+          plugin_topics: yes
+          plugin_topics_sort: stars
