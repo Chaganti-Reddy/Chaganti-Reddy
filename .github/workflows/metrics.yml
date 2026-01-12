@@ -20,47 +20,40 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # --- 2. LANGUAGES (Fixes the "Jupyter Wrapper" issue) ---
+          # --- 2. LANGUAGES (Correctly ignores Jupyter to show Python) ---
           plugin_languages: yes
-          # ignoring jupyter notebook forces it to count the actual Python code inside
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs, jupyter notebook
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_indepth: no
           
-          # --- 3. WAKATIME (Your Coding Stats) ---
+          # --- 3. WAKATIME ---
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages
           plugin_wakatime_days: 7
 
-          # --- 4. ACHIEVEMENTS (Simplified to fix the Red X Error) ---
+          # --- 4. ACHIEVEMENTS (Raised threshold to stop crashing) ---
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: B # Higher threshold = less calculation = no errors
+          plugin_achievements_threshold: B 
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 0 
 
-          # --- 5. INDEPTH ANALYSIS 1: HABITS (Day/Night & Consistency) ---
-          # Shows recruiters you are consistent and when you are most productive
+          # --- 5. HABITS (Tweaked to fix "Unexpected Error") ---
           plugin_habits: yes
           plugin_habits_from: 200       
           plugin_habits_days: 14        
-          plugin_habits_facts: yes      
-          plugin_habits_charts: yes     
+          plugin_habits_facts: no      # Set to NO to reduce errors
+          plugin_habits_charts: yes    
           
-          # --- 6. INDEPTH ANALYSIS 2: TRAFFIC (Repo Views) ---
-          # Shows how popular your projects are (Views/Clones)
-          plugin_traffic: yes
-
-          # --- 7. INDEPTH ANALYSIS 3: REACTIONS ---
-          # Shows how you interact with the community (Thumbs up, etc)
+          # --- 6. REACTIONS ---
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-          # --- 8. ML/SCIENCE ICONS ---
+          # --- 7. TOPICS ---
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: icons
