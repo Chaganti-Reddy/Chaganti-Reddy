@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Blog posts
+# Notes & Posts
 <!-- BLOG-POST-LIST:START -->
 - [Josephus Problem in Algorithm Design](https://karnablog.netlify.app/josephus/)
 - [IAM Service in AWS](https://karnablog.netlify.app/iam-aws/)
