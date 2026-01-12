@@ -18,7 +18,7 @@
   <br/>
 
   <a href="https://github.com/Chaganti-Reddy">
-        <img src="https://raw.githubusercontent.com/Chaganti-Reddy/Chaganti-Reddy/main/github-metrics.svg" alt="Chaganti Reddy's Generated Stats" width="100%" />
+        <img src="./github-metrics.svg" alt="Chaganti Reddy's Generated Stats" width="100%" />
   </a>
 
 </div>
