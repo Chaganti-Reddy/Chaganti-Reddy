@@ -45,26 +45,7 @@
     <a target="_blank"  href="https://www.w3schools.com/css/" target="_blank"> <img src="./img/css.png" width="48" height="48"/> </a> 
 </p>
 <br/>
-<p>
-  <a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaganti-Reddy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Chaganti-Reddy"><img alt="Chaganti Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaganti-Reddy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
-  
-  <br/>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 📊 My Github Stats
-   <br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chaganti-Reddy&theme=jolly&hide_border=true)](https://github.com/Chaganti-Reddy/)
-
-[![Chaganti Reddy's trophy](https://github-profile-trophy.vercel.app/?username=Chaganti-Reddy&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy)
-
-<br/>
-
-[![Chaganti Reddy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaganti-Reddy&theme=github-compact)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
-
-<br/>
 
 <p align="center"><a href="https://wakatime.com/@Ram777">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@Ram777/34964525-5dda-4c4c-8e5c-42e559c92160.svg" />
@@ -84,16 +65,6 @@
 
 ---
 
-### ✍️ Funky Tech Thoughts
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😉 Coding Chuckles
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
 <!-- --- -->
 
 ## Connect with me:
@@ -104,12 +75,6 @@
 <a target="_blank" href = "mailto: chagantivenkataramireddy1@gmail.com"><img src="./img/gmail.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://medium.com/@ramchaganti"><img src="./img/medium.png" width="50" height="50"/></a>
 <a target="_blank" href = "https://t.me/Chaganti_Reddy"><img src="./img/telegram.png" width="50" height="50"/></a>
-
-<!-- <a target="_blank" href = "https://twitter.com/Ram7775130764"><img src="./img/twitter.png" width="50" height="50"/></a> -->
-<!-- <a target="_blank" href = "https://www.instagram.com/venkat.0918/"><img src="./img/insta.png" width="50" height="50"/></a> -->
-<!-- <a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/fb.png" width="50" height="50"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100078414576760"><img src="./img/messanger.png" width="50" height="50"/></a> -->
-
 </p>
 
 ## ❤ Views and Followers
