@@ -33,7 +33,7 @@ jobs:
           plugin_lines_sections: base
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           
           plugin_languages: yes
           plugin_languages_colors: github
@@ -49,9 +49,9 @@ jobs:
           # --- LeetCode ---
           plugin_leetcode: yes
           plugin_leetcode_user: chagantivenkataramireddy1
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, skills #, recent
           plugin_leetcode_limit_skills: 8
-          plugin_leetcode_limit_recent: 3
+          # plugin_leetcode_limit_recent: 3
           
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, base.repositories, languages, lines, isocalendar, leetcode
@@ -81,6 +81,11 @@ jobs:
           plugin_achievements_threshold: X
           plugin_achievements_limit: 10
           plugin_achievements_display: detailed
+
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 25
+          plugin_people_types: followers, following
           
           # --- AniList ---
           # plugin_anilist: yes
@@ -91,4 +96,4 @@ jobs:
           # plugin_anilist_limit_characters: 22
           
           config_padding: 0, 8 + 11%
-          config_order: wakatime, achievements #, anilist
+          config_order: achievements, people, wakatime #, anilist
