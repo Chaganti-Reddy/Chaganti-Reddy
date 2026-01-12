@@ -11,6 +11,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      # ----------------------------------------------------------------
+      # LEFT PROFILE (Base stats, Habits, Lines, IsoCalendar, Languages)
+      # ----------------------------------------------------------------
       - name: left profile 
         uses: stalomeow/metrics@projects-v2
         with:
@@ -19,14 +22,14 @@ jobs:
           filename: github-metrics-left.svg
           user: Chaganti-Reddy
           template: classic
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Kolkata
           
           base: header, activity, community, repositories
           repositories_affiliations: owner, collaborator, organization_member
           
           plugin_habits: yes
           plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_days: 60
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
@@ -34,19 +37,27 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_ignored: html, css
+          # plugin_languages_ignored: html, css
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 90
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_recent_days: 365
+          plugin_languages_other: yes
           
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, base.repositories, languages, habits, lines
+          config_order: base.header, base.activity+community, base.repositories, languages, lines, isocalendar
 
+      # ----------------------------------------------------------------
+      # RIGHT PROFILE (WakaTime, LeetCode, Achievements, AniList, RSS)
+      # ----------------------------------------------------------------
       - name: right profile 
         uses: stalomeow/metrics@projects-v2
         with:
@@ -56,20 +67,39 @@ jobs:
           user: Chaganti-Reddy
           template: classic
           base: ""
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Kolkata
           
+          # --- WakaTime ---
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 180
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
+          # --- LeetCode ---
+          plugin_leetcode: yes
+          plugin_leetcode_user: chagantivenkataramireddy1
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_skills: 8
+          plugin_leetcode_limit_recent: 3
+          
+          # --- Achievements ---
           plugin_achievements: yes
           plugin_achievements_threshold: X
-          plugin_achievements_limit: 8
+          plugin_achievements_limit: 10
           plugin_achievements_display: detailed
           
+          # --- AniList ---
+          # plugin_anilist: yes
+          # plugin_anilist_user: Karna37
+          # plugin_anilist_medias: anime, manga
+          # plugin_anilist_sections: favorites, watching
+          # plugin_anilist_limit: 2
+          # plugin_anilist_limit_characters: 22
+
+          # --- RSS Feed ---
+          plugin_rss: yes
+          plugin_rss_source: https://karnablog.netlify.app/index.xml
+          plugin_rss_limit: 5
+          
           config_padding: 0, 8 + 11%
-          config_order: wakatime, isocalendar, achievements
+          config_order: wakatime, leetcode, achievements, rss #, anilist
