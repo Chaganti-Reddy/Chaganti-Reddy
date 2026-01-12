@@ -33,10 +33,10 @@ jobs:
           
           # 1. LANGUAGES (Removed ignore list to see if ANYTHING shows up)
           plugin_languages: yes
-          plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
+          plugin_languages_limit: 8
           # plugin_languages_ignored: html, css, shell # Commented out for testing
 
           # 2. LINES OF CODE (This usually fails if the script crashes earlier)
@@ -61,12 +61,12 @@ jobs:
           # Other plugins
           plugin_calendar: yes
           plugin_calendar_limit: 2
-          plugin_discussions: yes
+          plugin_discussions: no
           plugin_gists: yes
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: user
           plugin_notable_types: commit
-          plugin_leetcode: yes
+          plugin_leetcode: no
           plugin_leetcode_user: chagantivenkataramireddy1
           plugin_leetcode_sections: solved
           plugin_rss: yes
