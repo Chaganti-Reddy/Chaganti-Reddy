@@ -17,3 +17,4 @@ jobs:
         uses: Chaganti-Reddy/blog-post-workflow@v1
         with:
           feed_list: "https://karnablog.netlify.app/index.xml"
+          max_post_count: 10
