@@ -10,8 +10,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
+          use_prebuilt_image: no
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
