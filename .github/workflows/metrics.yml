@@ -57,8 +57,8 @@ jobs:
           config_order: base.header, base.activity+community, base.repositories, languages, lines, isocalendar, leetcode
 
           extras_css: |
-            section { margin-bottom: 50px; }
-            .row { margin-bottom: 50px; }
+            section { margin-bottom: 30px; }
+            .row { margin-bottom: 30px; }
 
       # ----------------------------------------------------------------
       # RIGHT PROFILE (WakaTime, LeetCode, Achievements, AniList, RSS)
@@ -103,5 +103,5 @@ jobs:
           config_order: achievements, people, wakatime #, anilist
 
           extras_css: |
-            section { margin-bottom: 50px; }
-            .row { margin-bottom: 50px; }
+            section { margin-bottom: 30px; }
+            .row { margin-bottom: 30px; }
