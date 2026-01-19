@@ -10,14 +10,14 @@
 
 # Notes & Posts
 <!-- BLOG-POST-LIST:START -->
-- [Josephus Problem in Algorithm Design](https://karnablog.netlify.app/josephus/)
-- [IAM Service in AWS](https://karnablog.netlify.app/iam-aws/)
-- [I/O mapping in CPU](https://karnablog.netlify.app/mappingio/)
-- [Types of Pointers in C](https://karnablog.netlify.app/pointers/)
-- [Bare Metal Programming vs RTOS](https://karnablog.netlify.app/baremetal/)
-- [Bootloaders in Computer](https://karnablog.netlify.app/bootloader/)
-- [Floating &amp; Fixed point representation](https://karnablog.netlify.app/floatingrep/)
-- [Load Balancing in Servers](https://karnablog.netlify.app/loadbalancing/)
-- [Multithreading and Parallelism](https://karnablog.netlify.app/multithread/)
-- [Setjmp and Longjmp in C](https://karnablog.netlify.app/setjmp-longjmp/)
+- [Heap Patterns](https://karnablog.netlify.app/DSA/heaps/patterns)
+- [Queues](https://karnablog.netlify.app/DSA/Queues/)
+- [Stacks](https://karnablog.netlify.app/DSA/Stacks/)
+- [Heap](https://karnablog.netlify.app/DSA/heaps/)
+- [Circular Queue](https://karnablog.netlify.app/DSA/Queues/circual_queue)
+- [DSA](https://karnablog.netlify.app/DSA/)
+- [Databases](https://karnablog.netlify.app/Database/)
+- [Queues](https://karnablog.netlify.app/DSA/Queues/Queues)
+- [Complexity Analysis](https://karnablog.netlify.app/DSA/Queues/complexity)
+- [Monotonic Queue](https://karnablog.netlify.app/DSA/Queues/monotonic_queue)
 <!-- BLOG-POST-LIST:END -->
