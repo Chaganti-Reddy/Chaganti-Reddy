@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Notes & Posts
+# Notes
 <!-- BLOG-POST-LIST:START -->
 - [Regex](https://karnablog.netlify.app/DSA/regex)
 - [Introduction](https://karnablog.netlify.app/OS/Deadlock/intro)
