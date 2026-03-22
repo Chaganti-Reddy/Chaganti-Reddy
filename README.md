@@ -12,6 +12,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Test](https://chaganti-reddy.github.io/scratchpad/rust/test.html)
 - [Ownership](https://chaganti-reddy.github.io/scratchpad/rust/ownership.html)
-- [Rust](https://chaganti-reddy.github.io/scratchpad/rust/)
 - [Borrowing](https://chaganti-reddy.github.io/scratchpad/rust/borrowing.html)
 <!-- BLOG-POST-LIST:END -->
