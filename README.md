@@ -10,7 +10,7 @@
 
 # Notes
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://chaganti-reddy.github.io/scratchpad/rust/test.html)
-- [Ownership](https://chaganti-reddy.github.io/scratchpad/rust/ownership.html)
-- [Borrowing](https://chaganti-reddy.github.io/scratchpad/rust/borrowing.html)
+- [Test](/scratchpad/rust/test/)
+- [Ownership](/scratchpad/rust/ownership/)
+- [Borrowing](/scratchpad/rust/borrowing/)
 <!-- BLOG-POST-LIST:END -->
