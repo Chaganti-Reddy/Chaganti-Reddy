@@ -16,5 +16,5 @@ jobs:
       - name: Pull in blog posts
         uses: Chaganti-Reddy/blog-post-workflow@v1
         with:
-          feed_list: "https://chaganti-reddy.github.io/scratchpad/feed.xml"
+          feed_list: "https://myscratchpad.netlify.app/feed.xml"
           max_post_count: 10
