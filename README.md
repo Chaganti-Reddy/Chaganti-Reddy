@@ -10,7 +10,7 @@
 
 # Notes
 <!-- BLOG-POST-LIST:START -->
-- [Test](/scratchpad/rust/test/)
-- [Ownership](/scratchpad/rust/ownership/)
-- [Borrowing](/scratchpad/rust/borrowing/)
+- [Test](https://myscratchpad.netlify.app/scratchpad/rust/test/)
+- [Ownership](https://myscratchpad.netlify.app/scratchpad/rust/ownership/)
+- [Borrowing](https://myscratchpad.netlify.app/scratchpad/rust/borrowing/)
 <!-- BLOG-POST-LIST:END -->
