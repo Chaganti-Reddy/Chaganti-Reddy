@@ -10,4 +10,5 @@
 
 # Nothing interesting to see here
 <!-- BLOG-POST-LIST:START -->
+- [Diffusion Models](https://myscratchpad.netlify.app/misc/diffusion-models/)
 <!-- BLOG-POST-LIST:END -->
