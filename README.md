@@ -8,9 +8,6 @@
   </a>
 </p>
 
-# Notes
+# Nothing interesting to see here
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://myscratchpad.netlify.app/rust/test/)
-- [Ownership](https://myscratchpad.netlify.app/rust/ownership/)
-- [Borrowing](https://myscratchpad.netlify.app/rust/borrowing/)
 <!-- BLOG-POST-LIST:END -->
