@@ -9,4 +9,6 @@
 </p>
 
 # Boring Stuff
-<!-- BLOG-POST-LIST:START -->SPLIT::PyTorch Internals::https://myscratchpad.netlify.app/ai/torch_internals/SPLIT::Diffusion Models::https://myscratchpad.netlify.app/misc/diffusion-models/<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
