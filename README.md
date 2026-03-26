@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Nothing interesting to see here
+# Boring Stuff
 <!-- BLOG-POST-LIST:START -->
 - [PyTorch Internals](https://myscratchpad.netlify.app/ai/torch_internals/)
 - [Diffusion Models](https://myscratchpad.netlify.app/misc/diffusion-models/)
