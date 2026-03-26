@@ -1,10 +1,10 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
-  contents: write
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
@@ -13,66 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Pull in blog posts
         uses: Chaganti-Reddy/blog-post-workflow@v1
         with:
           feed_list: "https://myscratchpad.netlify.app/feed.xml"
           max_post_count: 20
-          template: "SPLIT::$title::$url"
-          tag_post_pre_newline: false
-
-      - name: Reformat into 2-column table
-        run: |
-          python3 << 'EOF'
-          import re
-
-          with open("README.md", "r") as f:
-              content = f.read()
-
-          pattern = r"(<!-- BLOG-POST-LIST:START -->)(.*?)(<!-- BLOG-POST-LIST:END -->)"
-          match = re.search(pattern, content, re.DOTALL)
-          if not match:
-              print("Tags not found")
-              exit(0)
-
-          raw = match.group(2).strip()
-          lines = [l.strip() for l in raw.splitlines() if l.strip().startswith("SPLIT::")]
-
-          posts = []
-          for line in lines:
-              parts = line.split("::")
-              if len(parts) == 3:
-                  _, title, url = parts
-                  posts.append((title.strip(), url.strip()))
-
-          if len(posts) <= 5:
-              items = "\n".join([f"- [{title}]({url})" for title, url in posts])
-              new_block = f"<!-- BLOG-POST-LIST:START -->\n{items}\n<!-- BLOG-POST-LIST:END -->"
-          else:
-              rows = []
-              for i in range(0, len(posts), 2):
-                  left = f'<td><a href="{posts[i][1]}">{posts[i][0]}</a></td>'
-                  if i + 1 < len(posts):
-                      right = f'<td><a href="{posts[i+1][1]}">{posts[i+1][0]}</a></td>'
-                  else:
-                      right = "<td></td>"
-                  rows.append(f"  <tr>{left}{right}</tr>")
-              table = "\n".join(rows)
-              new_block = f"<!-- BLOG-POST-LIST:START -->\n<table>\n{table}\n</table>\n<!-- BLOG-POST-LIST:END -->"
-
-          new_content = re.sub(pattern, new_block, content, flags=re.DOTALL)
-
-          with open("README.md", "w") as f:
-              f.write(new_content)
-
-          print(f"Done! {len(posts)} posts — used {'list' if len(posts) <= 5 else 'table'} format.")
-          EOF
-
-      - name: Commit changes
-        run: |
-          git config user.name "blog-post-bot"
-          git config user.email "blog-post-bot@example.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "Updated with the latest blog posts"
-          git push
