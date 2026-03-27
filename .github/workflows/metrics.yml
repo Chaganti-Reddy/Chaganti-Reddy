@@ -1,8 +1,11 @@
 name: Metrics
 
 on:
+  # Schedule daily updates
   schedule: [{cron: "0 0/24 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
   # push: {branches: ["master", "main"]}
 
 jobs:
@@ -14,56 +17,41 @@ jobs:
       - name: left profile 
         uses: stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }} 
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-left.svg
+
+          # Options
           user: Chaganti-Reddy
           template: classic
+          base: header, activity, community, metadata
           config_timezone: Asia/Kolkata
-          
-          base: header, activity, community, repositories, metadata
-          repositories_affiliations: owner, collaborator, organization_member
-          
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          repositories: 1000
-          repositories_forks: yes
-          
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage #, lines
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, base.repositories, lines, metadata
+          config_order: base.header, base.activity+community, languages, metadata
 
       - name: right profile 
         uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics-right.svg
+
+          # Options
           user: Chaganti-Reddy
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
-          
-          # --- WakaTime ---
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 180
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
-          
-          # --- Achievements ---
           plugin_achievements: yes
           plugin_achievements_threshold: X
           plugin_achievements_limit: 10
           plugin_achievements_display: detailed
-
-          plugin_people: yes
-          plugin_people_limit: 25
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          
+          # plugin_stars: yes
+          # plugin_stars_limit: 2
           config_padding: 0, 8 + 11%
-          config_order: achievements, people, wakatime
+          config_order: achievements #, stars
