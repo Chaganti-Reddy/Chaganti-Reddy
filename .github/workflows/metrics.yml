@@ -11,9 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      # ----------------------------------------------------------------
-      # LEFT PROFILE (Base stats, Habits, Lines, IsoCalendar, Languages)
-      # ----------------------------------------------------------------
       - name: left profile 
         uses: stalomeow/metrics@projects-v2
         with:
@@ -24,7 +21,7 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
           
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           repositories_affiliations: owner, collaborator, organization_member
           
           plugin_lines: yes
@@ -32,33 +29,14 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          # plugin_languages_ignored: html, css
-          plugin_languages_details: percentage
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_recent_days: 365
-          plugin_languages_other: yes
-
-          # --- LeetCode ---
-          plugin_leetcode: yes
-          plugin_leetcode_user: chagantivenkataramireddy1
-          plugin_leetcode_sections: solved #, skills , recent
-          # plugin_leetcode_limit_skills: 8
-          # plugin_leetcode_limit_recent: 3
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          repositories: 1000
+          repositories_forks: yes
           
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, base.repositories, languages, lines, isocalendar, leetcode
+          config_order: base.header, base.activity+community, base.repositories, lines, metadata
 
-      # ----------------------------------------------------------------
-      # RIGHT PROFILE (WakaTime, LeetCode, Achievements, AniList, RSS)
-      # ----------------------------------------------------------------
       - name: right profile 
         uses: stalomeow/metrics@projects-v2
         with:
@@ -87,13 +65,5 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           
-          # --- AniList ---
-          # plugin_anilist: yes
-          # plugin_anilist_user: Karna37
-          # plugin_anilist_medias: anime, manga
-          # plugin_anilist_sections: favorites, watching
-          # plugin_anilist_limit: 2
-          # plugin_anilist_limit_characters: 22
-          
           config_padding: 0, 8 + 11%
-          config_order: achievements, people, wakatime #, anilist
+          config_order: achievements, people, wakatime
