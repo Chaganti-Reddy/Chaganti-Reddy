@@ -26,7 +26,7 @@ jobs:
           base: header, activity, community, metadata
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           config_timezone: Asia/Kolkata
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, wakatime, metadata
