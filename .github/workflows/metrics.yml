@@ -30,10 +30,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_ignored: html, css, jupyter notebook
-          plugin_languages_details: percentage, lines
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_details: percentage
           commits_authoring: Chaganti-Reddy, chagantivenkataramireddy4@gmail.com, Chaganti-Reddy@users.noreply.github.com
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, languages, metadata
