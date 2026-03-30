@@ -25,7 +25,7 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 365
           config_timezone: Asia/Kolkata
