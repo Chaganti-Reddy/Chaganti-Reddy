@@ -33,6 +33,7 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 120
+          commits_authoring: Chaganti-Reddy, chagantivenkataramireddy4@gmail.com, Chaganti-Reddy@users.noreply.github.com
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, languages, metadata
 
