@@ -27,6 +27,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 365
           config_timezone: Asia/Kolkata
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, wakatime, metadata
@@ -44,7 +45,7 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_achievements: yes
           plugin_achievements_threshold: X
-          plugin_achievements_limit: 10
+          plugin_achievements_limit: 8
           plugin_achievements_display: detailed
           # plugin_stars: yes
           # plugin_stars_limit: 2
