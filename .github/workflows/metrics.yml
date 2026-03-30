@@ -23,14 +23,14 @@ jobs:
           # Options
           user: Chaganti-Reddy
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os, os-graphs
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 365
           config_timezone: Asia/Kolkata
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, wakatime, metadata
+          config_order: base.header, base.activity+community, wakatime
 
       - name: right profile 
         uses: stalomeow/metrics@projects-v2
