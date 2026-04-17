@@ -10,6 +10,7 @@
 
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
+- [CORS](https://myscratchpad.netlify.app/misc/cors/)
 - [Impl Optimizations](https://myscratchpad.netlify.app/rust/impl-optimizations/)
 - [Cargo.Toml](https://myscratchpad.netlify.app/rust/cargo/)
 - [Rust Attributes](https://myscratchpad.netlify.app/rust/attributes/)
