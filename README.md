@@ -13,9 +13,9 @@
 
 <table>
 <tr><td width="500px"></td><td width="500px"></td></tr>
-<tr><td align="center">[CORS](https://myscratchpad.netlify.app/misc/cors/)</td><td align="center">[Impl Optimizations](https://myscratchpad.netlify.app/rust/impl-optimizations/)</td></tr>
-<tr><td align="center">[Cargo.Toml](https://myscratchpad.netlify.app/rust/cargo/)</td><td align="center">[Rust Attributes](https://myscratchpad.netlify.app/rust/attributes/)</td></tr>
-<tr><td align="center">[PyTorch Internals](https://myscratchpad.netlify.app/ai/torch_internals/)</td><td align="center">[Diffusion Models](https://myscratchpad.netlify.app/misc/diffusion-models/)</td></tr>
+<tr><td align="center"><a href="https://myscratchpad.netlify.app/misc/cors/">CORS</a></td><td align="center"><a href="https://myscratchpad.netlify.app/rust/impl-optimizations/">Impl Optimizations</a></td></tr>
+<tr><td align="center"><a href="https://myscratchpad.netlify.app/rust/cargo/">Cargo.Toml</a></td><td align="center"><a href="https://myscratchpad.netlify.app/rust/attributes/">Rust Attributes</a></td></tr>
+<tr><td align="center"><a href="https://myscratchpad.netlify.app/ai/torch_internals/">PyTorch Internals</a></td><td align="center"><a href="https://myscratchpad.netlify.app/misc/diffusion-models/">Diffusion Models</a></td></tr>
 </table>
 
 <!-- BLOG-POST-LIST:END -->
