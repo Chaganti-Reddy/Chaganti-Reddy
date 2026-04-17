@@ -11,8 +11,21 @@
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
 <table width="100%">
-<tr><td width="50%">&bull; [CORS](https://myscratchpad.netlify.app/misc/cors/)</td><td width="50%">&bull; [Impl Optimizations](https://myscratchpad.netlify.app/rust/impl-optimizations/)</td></tr>
-<tr><td width="50%">&bull; [Cargo.Toml](https://myscratchpad.netlify.app/rust/cargo/)</td><td width="50%">&bull; [Rust Attributes](https://myscratchpad.netlify.app/rust/attributes/)</td></tr>
-<tr><td width="50%">&bull; [PyTorch Internals](https://myscratchpad.netlify.app/ai/torch_internals/)</td><td width="50%">&bull; [Diffusion Models](https://myscratchpad.netlify.app/misc/diffusion-models/)</td></tr>
+<tr>
+<td width="50%" valign="top">
+<ul>
+<li><a href="https://myscratchpad.netlify.app/misc/cors/">CORS</a></li>
+<li><a href="https://myscratchpad.netlify.app/rust/cargo/">Cargo.Toml</a></li>
+<li><a href="https://myscratchpad.netlify.app/ai/torch_internals/">PyTorch Internals</a></li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<ul>
+<li><a href="https://myscratchpad.netlify.app/rust/impl-optimizations/">Impl Optimizations</a></li>
+<li><a href="https://myscratchpad.netlify.app/rust/attributes/">Rust Attributes</a></li>
+<li><a href="https://myscratchpad.netlify.app/misc/diffusion-models/">Diffusion Models</a></li>
+</ul>
+</td>
+</tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
