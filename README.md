@@ -11,10 +11,23 @@
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
 
-| | |
-|---|---|
-| [CORS](https://myscratchpad.netlify.app/misc/cors/) | [Impl Optimizations](https://myscratchpad.netlify.app/rust/impl-optimizations/) |
-| [Cargo.Toml](https://myscratchpad.netlify.app/rust/cargo/) | [Rust Attributes](https://myscratchpad.netlify.app/rust/attributes/) |
-| [PyTorch Internals](https://myscratchpad.netlify.app/ai/torch_internals/) | [Diffusion Models](https://myscratchpad.netlify.app/misc/diffusion-models/) |
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+          <td width="50%" valign="top">
+          <ul>
+              <li><a href="https://myscratchpad.netlify.app/misc/cors/">CORS</a></li>
+    <li><a href="https://myscratchpad.netlify.app/rust/cargo/">Cargo.Toml</a></li>
+    <li><a href="https://myscratchpad.netlify.app/ai/torch_internals/">PyTorch Internals</a></li>
+          </ul>
+          </td>
+          <td width="50%" valign="top">
+          <ul>
+              <li><a href="https://myscratchpad.netlify.app/rust/impl-optimizations/">Impl Optimizations</a></li>
+    <li><a href="https://myscratchpad.netlify.app/rust/attributes/">Rust Attributes</a></li>
+    <li><a href="https://myscratchpad.netlify.app/misc/diffusion-models/">Diffusion Models</a></li>
+          </ul>
+          </td>
+          </tr>
+          </table>
 
 <!-- BLOG-POST-LIST:END -->
