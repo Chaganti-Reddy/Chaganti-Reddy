@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in blog posts
-        uses: Chaganti-Reddy/blog-post-workflow@master
+        uses: Chaganti-Reddy/blog-post-workflow@venkat
         with:
           feed_list: "https://myscratchpad.netlify.app/feed.xml"
           max_post_count: 20
