@@ -10,22 +10,7 @@
 
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<ul>
-<li><a href="https://myscratchpad.netlify.app/misc/cors/">CORS</a></li>
-<li><a href="https://myscratchpad.netlify.app/rust/cargo/">Cargo.Toml</a></li>
-<li><a href="https://myscratchpad.netlify.app/ai/torch_internals/">PyTorch Internals</a></li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<ul>
-<li><a href="https://myscratchpad.netlify.app/rust/impl-optimizations/">Impl Optimizations</a></li>
-<li><a href="https://myscratchpad.netlify.app/rust/attributes/">Rust Attributes</a></li>
-<li><a href="https://myscratchpad.netlify.app/misc/diffusion-models/">Diffusion Models</a></li>
-</ul>
-</td>
-</tr>
-</table>
+- [CORS](https://myscratchpad.netlify.app/misc/cors/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Impl Optimizations](https://myscratchpad.netlify.app/rust/impl-optimizations/)
+- [Cargo.Toml](https://myscratchpad.netlify.app/rust/cargo/)&nbsp;&nbsp;&nbsp;[Rust Attributes](https://myscratchpad.netlify.app/rust/attributes/)
+- [PyTorch Internals](https://myscratchpad.netlify.app/ai/torch_internals/) [Diffusion Models](https://myscratchpad.netlify.app/misc/diffusion-models/)
 <!-- BLOG-POST-LIST:END -->
