@@ -11,14 +11,6 @@
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
 
-<table>
-<tr><td width="500px"></td><td width="500px"></td></tr>
-<tr><td align="center"><a href="https://myscratchpad.netlify.app/misc/google-maps/">Google Maps Internals</a></td><td align="center"><a href="https://myscratchpad.netlify.app/misc/http-caching/">HTTP Caching</a></td></tr>
-<tr><td align="center"><a href="https://myscratchpad.netlify.app/ai/embeddings/">Tokenization & Embeddings</a></td><td align="center"><a href="https://myscratchpad.netlify.app/misc/proxies/">Proxies</a></td></tr>
-<tr><td align="center"><a href="https://myscratchpad.netlify.app/maths/algebra/ladr/ch1/">Ch 1 — Vector Spaces</a></td><td align="center"><a href="https://myscratchpad.netlify.app/misc/cors/">CORS</a></td></tr>
-<tr><td align="center"><a href="https://myscratchpad.netlify.app/rust/impl-optimizations/">Impl Optimizations</a></td><td align="center"><a href="https://myscratchpad.netlify.app/rust/cargo/">Cargo.Toml</a></td></tr>
-<tr><td align="center"><a href="https://myscratchpad.netlify.app/rust/attributes/">Rust Attributes</a></td><td align="center"><a href="https://myscratchpad.netlify.app/ai/torch_internals/">PyTorch Internals</a></td></tr>
-<tr><td align="center"><a href="https://myscratchpad.netlify.app/misc/diffusion-models/">Diffusion Models</a></td><td align="center"></td></tr>
-</table>
+- [Scratchpad](https://myscratchpad.is-a.dev/index.php/Scratchpad)
 
 <!-- BLOG-POST-LIST:END -->
