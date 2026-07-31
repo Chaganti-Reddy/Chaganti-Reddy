@@ -10,7 +10,4 @@
 
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
-
-- [Complete Roadmap](https://myscratchpad.is-a.dev/index.php/Complete_Roadmap)
-
 <!-- BLOG-POST-LIST:END -->
