@@ -11,6 +11,6 @@
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
 
-- [Scratchpad](https://myscratchpad.is-a.dev/index.php/Scratchpad)
+- [Complete Roadmap](https://myscratchpad.is-a.dev/index.php/Complete_Roadmap)
 
 <!-- BLOG-POST-LIST:END -->
