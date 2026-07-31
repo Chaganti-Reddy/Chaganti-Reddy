@@ -16,6 +16,6 @@ jobs:
       - name: Pull in blog posts
         uses: Chaganti-Reddy/blog-post-workflow@venkat
         with:
-          feed_list: "https://myscratchpad.is-a.dev/index.php?title=Special:NewPages&feed=rss"
+          feed_list: "https://myscratchpad.is-a.dev/index.php?title=Special:NewPages&namespace=0&feed=rss"
           max_post_count: 20
           disable_html_encoding: "true"
