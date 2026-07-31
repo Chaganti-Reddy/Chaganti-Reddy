@@ -16,6 +16,6 @@ jobs:
       - name: Pull in blog posts
         uses: Chaganti-Reddy/blog-post-workflow@venkat
         with:
-          feed_list: "https://myscratchpad.netlify.app/feed.xml"
+          feed_list: "https://myscratchpad.is-a.dev/index.php?title=Special:NewPages&feed=rss"
           max_post_count: 20
           disable_html_encoding: "true"
