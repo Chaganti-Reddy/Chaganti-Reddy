@@ -11,6 +11,6 @@
 # Boring Stuff
 <!-- BLOG-POST-LIST:START -->
 
-- [CSES/Introductory/Weird Algorithm](https://myscratchpad.is-a.dev/index.php/CSES/Introductory/Weird_Algorithm)
+- [DSA/CSES 2Knights](https://myscratchpad.is-a.dev/index.php/DSA/CSES_2Knights)
 
 <!-- BLOG-POST-LIST:END -->
